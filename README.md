@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://www.itsashishsahu.com](https://www.itsashishsahu.com)
+- 👨‍💻 All of my projects are available at [itsashishsahu.com](https://www.itsashishsahu.com)
 
 - 💬 Ask me about **MERN**
 
