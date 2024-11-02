@@ -1,16 +1,14 @@
 <img src="linkedinBanner.png"/>
 <h1 align="center">Hi 👋, I'm Ashish Sahu</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate DevOps & Cloud Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsashishsahu&label=Profile%20views&color=0e75b6&style=flat" alt="itsashishsahu" /> </p>
 
 - 🔭 I’m currently working on [deepmtrx.com](https://github.com/itsashishsahu/deepmtrx)
 
-- 🌱 I’m currently learning **Java**
+- 👨‍💻 All of my projects are available at [itsashishsahu.in](https://www.itsashishsahu.in)
 
-- 👨‍💻 All of my projects are available at [itsashishsahu.com](https://www.itsashishsahu.com)
-
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **DevOps & Cloud**
 
 - 📫 How to reach me **itsashishsahu.inc@gmail.com**
 
