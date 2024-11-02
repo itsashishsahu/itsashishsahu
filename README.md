@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsashishsahu&label=Profile%20views&color=0e75b6&style=flat" alt="itsashishsahu" /> </p>
 
-- 🔭 I’m currently working on [deepmtrx.com](https://github.com/itsashishsahu/deepmtrx)
+- 🔭 I’m currently working on [AWS](https://aws.amazon.com/)
 
 - 👨‍💻 All of my projects are available at [itsashishsahu.in](https://www.itsashishsahu.in)
 
